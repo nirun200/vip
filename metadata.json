@@ -1,0 +1,6 @@
+{
+  "name": "สูตรบาคาร่า AI",
+  "description": "ระบบวิเคราะห์ข้อมูล ตารางสถิติขอนไพ่ และโปรแกรมทดลองสูตรเดินเงินบาคาร่าอัจฉริยะ (Baccarat Stats, Strategy Predictor & Simulator)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
